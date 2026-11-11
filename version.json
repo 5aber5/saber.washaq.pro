@@ -1,1 +1,7 @@
-version.json
+{
+  "versionCode": 63,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/5aber5/saber.washaq.pro/releases/download/v1.61/StudentAccounts.apk",
+  "notes": "نظام تحديثات تلقائي داخل التطبيق\nرسائل وتنبيهات داخل التطبيق\nإصلاحات وتحسينات",
+  "mandatory": false
+}
